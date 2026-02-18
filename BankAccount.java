@@ -1,5 +1,4 @@
 package Practice;
-
 public class BankAccount {
 	private int accountNumber;
 	private String HolderName;
@@ -26,8 +25,5 @@ public class BankAccount {
 				            "Balance: "+ balance + "\n" +
 				            "-------------------------------");
 	}
-
-
-
 }
 
